@@ -5,15 +5,13 @@ Este projeto é uma API desenvolvida para um site de viagens feito na NLW JOURNE
 
 ### Principais Funcionalidades:
 - Gerenciamento de destinos e pacotes de viagens.
-- Cadastro e autenticação de usuários.
 - Consulta de informações de viagens disponíveis.
-- Integração com serviços de pagamento.
 
 ## Tecnologias Utilizadas
 - **Node.js**: Ambiente de execução JavaScript no servidor.
 - **TypeScript**: Superset de JavaScript que adiciona tipagem estática.
 - **Prisma**: ORM moderno e eficiente para interagir com o banco de dados.
-- **Express.js**: Framework minimalista para criação de rotas e controle HTTP.
+- **Fastify**: Framework minimalista para criação de rotas e controle HTTP.
 
 ## Pré-requisitos
 - Node.js (v16 ou superior).
