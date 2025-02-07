@@ -20,9 +20,9 @@ Este projeto é uma API desenvolvida para um site de viagens feito na NLW JOURNE
 ## Instalação e Execução
 1. Clone o repositório:
    ```bash
-  git clone https://github.com/CaioSilvaCampos/NLW-JOURNEY.git
-  cd NLW-JOURNEY
-   ```
+   git clone https://github.com/CaioSilvaCampos/NLW-JOURNEY.git
+   cd NLW-JOURNEY
+
 
 2. Instale as dependências:
    ```bash
